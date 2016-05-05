@@ -1,4 +1,4 @@
-# requiejsDemo
+# requiejsNote
 requiejs 模块引入
 
 ## 1. 在head部分引入 require.js ：
