@@ -55,3 +55,5 @@ require(['jquery' , 'model1' , 'model2' , 'math','main'] ,
 </html>
 
 ```
+
+[链接](http://www.runoob.com/w3cnote/requirejs-tutorial-1.html)
