@@ -32,3 +32,26 @@ require(['jquery' , 'model1' , 'model2' , 'math','main'] ,
       console.log('index.js入口模块 全部加载完模块');
 });
 ```
+
+## 4. html页面 ：
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>require</title>
+    <!-- 引入require.js -->
+    <script src="http://cdn.bootcss.com/require.js/2.1.20/require.min.js"></script>
+</head>
+<body>
+<h1>require.js</h1>
+ <div class="js_test"></div>
+ <!--其他结构-->
+ 
+  <!-- 引入主模块 index.js -->
+  <script src="js/index.js"></script>
+
+</body>
+</html>
+
+```
